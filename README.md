@@ -19,7 +19,6 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
 <br>
 <br>
 <h3>Technologies & Tools </h3>
-<hr style=" background-color: #000; height: 0.2px;">
 <div height='1000px' width='70px'>
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
     <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
@@ -33,7 +32,7 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </div>
-
+<br>
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
 </p>
