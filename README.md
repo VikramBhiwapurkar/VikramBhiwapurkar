@@ -7,7 +7,7 @@
 - 🌱 I’m currently pursuing BTech in Computer Science and engineering 
 - 💞️ I’m looking to collaborate on ML/AI projects
 
-![Vikram Bhiwapurkar](https://raw.githubusercontent.com/VikramBhiwapurkar/VikramBhiwapurkar/main/Vikram_Bhiwapurkar.svg)
+![Vikram Bhiwapurkar](https://raw.githubusercontent.com/VikramBhiwapurkar/VikramBhiwapurkar/main/Vikram_Bhiwapurkar.mp4)
 
 <p align="center">
 Whatever I do, I do with passion and dedication. Committed to work ethics, I enjoy leading and supporting others to achieve their goals. Constantly seeking innovation to improve the lives of people around me.
