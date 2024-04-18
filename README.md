@@ -1,7 +1,7 @@
-<h2>Hey 👋, I'm Adrian Sudbury</h2>
+<h2>Hey 👋, I'm Vikram Bhiwapurkar</h2>
 
 <br />
-<h3>Get In Touch at <a href="mailto:sudburya@gmail.com">sudburya@gmail.com</a></h3>
+<h3>Get In Touch at <a href="mailto:bhivapurkarvikram@gmail.com">bhivapurkarvikram@gmail.com</a></h3>
 
 <h3>I'm currently working on&nbsp;&nbsp;&nbsp;<img src="assets/svg/aws.svg"/>&nbsp;&nbsp;&nbsp;with the following</h3>
 
