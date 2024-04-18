@@ -8,5 +8,5 @@
 - 💞️ I’m looking to collaborate on ML/AI projects
 
 <br />
-![Abhinandan Trilokia](bottom_header.svg)
+![Vikram Bhiwapurkar](bottom_header.svg)
 <br>
