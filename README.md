@@ -22,10 +22,6 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
 
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=your_github_username"/>       
-</p>
-
 </p>
 
 ![Vikram Bhiwapurkar](https://raw.githubusercontent.com/VikramBhiwapurkar/VikramBhiwapurkar/main/bottom_header.svg)
