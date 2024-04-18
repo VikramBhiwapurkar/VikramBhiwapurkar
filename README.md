@@ -21,19 +21,16 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
 
 <div height='1000px' width='70px'>
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
+    <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
-  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
-  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
-  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
-  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></code>
   <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
   <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
   <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-  <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Pytorch_logo.png"></code>
   <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"></code>
-  <code style="margin-right: 10px;"><img height="40" src="https://matplotlib.org/stable/_static/logo2_compressed.svg"></code>
   <code style="margin-right: 10px;"><img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
+  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
+  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
+  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </div>
 
 <p align="center">
