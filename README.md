@@ -1,6 +1,7 @@
 <h2>Hey 👋, I'm Vikram Bhiwapurkar</h2>
 
 <br />
+<br>
 - 👀 I’m interested in Machine Learning and Artificial Intelligience
 - 🌱 I’m currently pursuing BTech in Computer Science and engineering 
 - 💞️ I’m looking to collaborate on ML/AI projects
