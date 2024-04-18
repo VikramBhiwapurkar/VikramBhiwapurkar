@@ -12,7 +12,7 @@
 <p align="center">
 Whatever I do, I do with passion and dedication. Committed to work ethics, I enjoy leading and supporting others to achieve their goals. Constantly seeking innovation to improve the lives of people around me.
 <br><br>
-  · <a href="[link_to_your_resume](https://drive.google.com/file/d/1cTem0yb7wv-yvH2ag5vUyfvYOZwyNh5i/view?usp=drive_link)">Resume</a>
+  · <a href="https://drive.google.com/file/d/1cTem0yb7wv-yvH2ag5vUyfvYOZwyNh5i/view?usp=drive_link">Resume</a>
  · 
 <br>
 <a href="link_to_your_android_developer_profile">Android developer @YourCompany</a>
