@@ -16,7 +16,7 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
  · 
 
  <p align="center">
-   <a href="link_to_your_linkedin_profile"><img src="https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+   <a href="https://www.linkedin.com/in/vikram-bhiwapurkar/"><img src="https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
