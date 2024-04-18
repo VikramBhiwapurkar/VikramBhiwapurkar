@@ -32,9 +32,6 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link="mailto:your_email@example.com" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/vikram-bhiwapurkar/">
-    <img src="https://img.shields.io/badge/-Vikram Bhiwapurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" />
-  </a>
 </p>
 
   <br>
