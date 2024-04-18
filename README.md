@@ -12,12 +12,6 @@
 Whatever I do, I do with passion and dedication. Committed to work ethics, I enjoy leading and supporting others to achieve their goals. Constantly seeking innovation to improve the lives of people around me.
 <br><br> 
 
- <p align="center">
-   <a href="https://www.linkedin.com/in/vikram-bhiwapurkar/"><img src="https://img.shields.io/badge/-Vikram Bhiwapurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br>
-<br>
 <h3>Technologies & Tools </h3>
 <div height='1000px' width='70px'>
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
@@ -32,10 +26,17 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </div>
-<br>
+<br><br>
+
+ <p align="center">
+   <a href="https://www.linkedin.com/in/vikram-bhiwapurkar/"><img src="https://img.shields.io/badge/-Vikram Bhiwapurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <br><br>
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
 </p>
+
 
 ![Vikram Bhiwapurkar](https://raw.githubusercontent.com/VikramBhiwapurkar/VikramBhiwapurkar/main/bottom_header.svg)
 <br>
