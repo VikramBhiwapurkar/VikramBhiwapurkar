@@ -13,9 +13,9 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
 <br><br> 
 
 <h3>Technologies & Tools </h3>
-<div height='1000px' width='70px'>
+<div height='1000px' width='70px' align="center">
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> 
-    <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
+  <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>  
   <code style="margin-right: 10px;"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
   <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
   <code style="margin-right: 10px;"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
@@ -32,7 +32,7 @@ Whatever I do, I do with passion and dedication. Committed to work ethics, I enj
    <a href="https://www.linkedin.com/in/vikram-bhiwapurkar/"><img src="https://img.shields.io/badge/-Vikram Bhiwapurkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/vikram-bhiwapurkar/" /></a>&nbsp;&nbsp;&nbsp;&nbsp
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <br><br>
+  <br>
 <p align="center">
  <i>Take a look at my repositories and let's get in touch!</i>
 </p>
